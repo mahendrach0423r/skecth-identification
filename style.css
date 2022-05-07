@@ -1,0 +1,44 @@
+.background
+{
+   background-color: rgba(0, 255, 213, 0.822);
+}
+
+#timer
+{
+    float: right;
+}
+
+#score
+{
+    float: left;
+}
+
+h1{
+    font-size: 30px;
+    margin: 20px;
+    background-color:aquamarine ;
+    
+}
+#show_sketch
+{
+    float: right;
+}
+
+p
+{
+    font-size: 20px;
+    font-weight: 700;
+
+}
+
+#score
+{
+    font-size: 30px;                                                                                                                                                            
+    margin-top: 25px;
+}
+
+#timer
+{
+    font-size: 30px;
+    margin-top: 25px;
+}
